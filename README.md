@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AnasAttaullah
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning Javascript frameworks.
+- 👋 Hi, I’m Anas Attaullah
+- 👀 I’m interested in Programming.
+- 🌱 I’m currently learning .NET and SQL.
 - 💞️ I’m looking to collaborate on Some awesome project.
 - 📫 How to reach me? -->Email me on anas303842@gmail.com
 
