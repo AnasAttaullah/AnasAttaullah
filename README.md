@@ -79,23 +79,12 @@ Constantly exploring modern web technologies and full-stack architecture pattern
 </details>
 
 ---
-
-## 🧭 Developer Philosophy
-
-- 🧩 Write code that explains itself
-- ⚙️ Optimize only what matters
-- 🧪 Measure before you assume
-- ✨ Simplicity beats cleverness
+## 🧪 Current Focus
 
 > **“Bridging the gap between native performance and web accessibility.”**
 
----
-
-## 🔭 Currently Exploring
-
-- Asynchronous & parallel programming in **.NET**
-- **ASP.NET Core** for cross-platform web systems
-- Blending desktop-grade performance with web reach
+🔹 Mastering **asynchronous programming** in .NET  
+🔹 Deep-diving into **ASP.NET Core** to connect Desktop and Web ecosystems  
 
 ---
 
