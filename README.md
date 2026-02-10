@@ -17,8 +17,7 @@
 
 ## 🚀 About Me
 
-I’m a **software developer** who enjoys crafting  
-🖥 **robust desktop tools** and 🌐 **elegant web experiences**.
+I’m a **software developer** who enjoys crafting 🖥 **robust desktop tools** and 🌐 **elegant web experiences**.
 
 I care deeply about:
 - ⚡ Performance
@@ -30,15 +29,11 @@ I care deeply about:
 ---
 
 ## 💻 What I Do
+✨ **Desktop Engineering:** Building specialized Windows applications using **.NET** and **WPF**, with a strong focus on performance and UX.
 
-✨ **Desktop Engineering**  
-Building specialized Windows applications using **.NET** and **WPF**, with a strong focus on performance and UX.
+🌍 **Web Orchestration:** Designing and managing dynamic websites powered by **WordPress**, optimized for speed and scalability.
 
-🌍 **Web Orchestration**  
-Designing and managing dynamic websites powered by **WordPress**, optimized for speed and scalability.
-
-📚 **Continuous Learning**  
-Constantly exploring modern web technologies and full-stack architecture patterns.
+📚 **Continuous Learning:** Constantly exploring modern web technologies and full-stack architecture patterns.
 
 ---
 
