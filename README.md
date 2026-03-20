@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
   <a href="https://anasattaullah.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-0A0A0A?style=flat&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Website-white?style=flat&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:anasattaullahh@gmail.com">
     <img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=flat&logo=gmail" />
