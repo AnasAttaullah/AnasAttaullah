@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Signika&weight=700&size=42&pause=1000&color=ffffff&center=true&vCenter=true&width=600&height=60&repeat=false&lines=Hi%2C+I%27m+Anas+Attaullah+%F0%9F%91%8B" alt="Header" />
-
-<img src="https://readme-typing-svg.demolab.com/?font=Signika+Code&size=20&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Building+fast+WPF+desktop+apps;Optimizing+WordPress+sites+for+speed;Exploring+ASP.NET+Core+%2B+Web" alt="Typing SVG" />
-
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=60&repeat=false&lines=Hi%2C+I%27m+Anas+Attaullah+%F0%9F%91%8B" alt="Header" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Building+fast+WPF+desktop+apps;Optimizing+WordPress+sites+for+speed;Exploring+ASP.NET+Core+%2B+Web" alt="Typing SVG" />
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-attaullah/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://anasattaullah.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasattaullahh@gmail.com)
